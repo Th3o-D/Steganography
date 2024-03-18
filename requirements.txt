@@ -1,0 +1,6 @@
+cffi==1.16.0
+cryptography==42.0.5
+numpy==1.26.4
+pillow==10.2.0
+pycparser==2.21
+tqdm==4.66.2
